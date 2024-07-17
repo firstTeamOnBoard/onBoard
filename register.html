@@ -53,22 +53,24 @@
             <label for="hobbyInput">취미</label>
         </div>
 
-        <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="자기 소개" rows="10" style="resize: none;"></textarea>
+        <textarea class="form-control" id="introInput" placeholder="자기 소개" rows="10" style="resize: none;"></textarea>
 
         <div class="form-floating mb-3">
-            <input type="email" class="form-control" id="linkInput" placeholder="블로그 링크">
+            <input type="email" class="form-control" id="blogInput" placeholder="블로그 링크">
             <label for="linkInput">블로그 링크</label>
         </div>
         
         <div class="fileupload">
-            <input type="file" class="form-control" aria-label="file example" required="" id="fileInput">
+            <input type="file" class="form-control" aria-label="file example" required="" id="profileInput">
         </div>
     </div>
 
     <div class="mybutton">
-        <button type="button" class="btn btn-outline-light">저장</button>
-        <button type="button" class="btn btn-outline-light">취소</button>
-    </div>3
+        <button type="button" class="btn btn-outline-light" id="okButton">저장</button>
+        <button type="button" class="btn btn-outline-light" id="noButton">취소</button>
+    </div>
+
+    <script type="module" src="/js/register.js"></script>
 </body>
 
 </html>
