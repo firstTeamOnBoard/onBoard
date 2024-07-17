@@ -24,13 +24,13 @@ const storage = getStorage(app);
 const db = getFirestore(app);
 
 document.addEventListener('DOMContentLoaded', () => {
-    const nameInput = document.getElementById('nameInput');
-    const mbtiInput = document.getElementById('mbtiInput');
-    const hobbyInput = document.getElementById('hobbyInput');
-    const introInput = document.getElementById('introInput');
-    const blogInput = document.getElementById('blogInput');
-    const profileInput = document.getElementById('profileInput');
-    const saveButton = document.getElementById('okButton');
+    const nameInput = document.getElementById('nameInput');  //이름
+    const mbtiInput = document.getElementById('mbtiInput');  //mbti
+    const hobbyInput = document.getElementById('hobbyInput');  // 취미
+    const introInput = document.getElementById('introInput');  // 자기소개 
+    const blogInput = document.getElementById('blogInput');  // 블로그 링크 
+    const profileInput = document.getElementById('profileInput');  // 프로필 이미지
+    const saveButton = document.getElementById('okButton');  //저장 버튼
 
     saveButton.addEventListener('click', async () => {
         const profileData = {
