@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+* {
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.mypostingbox {
+    width: 500px;
+    margin: 30px auto 30px auto;
+    padding: 30px 20px 10px 20px;
+    box-shadow: 0px 0px 3px 0px white;
+    border-radius: 10px;
+}
+
+.mybutton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 50px;
+}
+
+.mybutton>button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.col-md-4{
+    width: 400px;
+    margin: 20px auto 20px auto;
+    border-radius: 5px;
+}
+
+.backgroundsetting{
+    background-color: black;
+}
+
+.logo{
+    margin: auto;
+    text-align: center;
+}
+.fileupload{
+    margin-bottom: 50px;
+}
+.form-control{
+    margin-bottom: 20px;
+}
