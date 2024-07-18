@@ -29,8 +29,8 @@ console.log("이해3", profileImageUrl);
 const nameLabel = document.querySelector('.name');
 const mbtiLabel = document.querySelector('.mbti');
 const blogLabel = document.getElementById('blog');
-const hobbyLabel = document.querySelector('.font1:nth-of-type(1)');
-const introLabel = document.querySelector('.font1:nth-of-type(2)');
+const hobbyLabel = document.querySelector('.font1:nth-of-type(2)');
+const introLabel = document.querySelector('.font1:nth-of-type(4)');
 const profileImage = document.querySelector('.imgs');
 const area1Element = document.querySelector('.area1');
 
