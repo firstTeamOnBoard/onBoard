@@ -4,6 +4,7 @@ body {
     background-color: #141414;
     font-family: Arial, sans-serif;
     color: #ffffff;
+    user-select: none;
 }
 
 .mainBox {
@@ -60,9 +61,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    cursor: pointer;
     animation: neonGlow 5s infinite;
     flex-shrink: 0;
+}
+
+.imgs {
+    width: 100%;
+    height: 100%;
 }
 
 @keyframes neonGlow {
@@ -107,6 +112,7 @@ body {
 }
 
 .blog {
-    text-decoration: none;
     color: white;
+    cursor: pointer;
+    text-decoration-line: underline;
 }
