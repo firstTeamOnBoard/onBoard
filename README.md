@@ -26,4 +26,4 @@
 ### 화면
 | 메인 | 팀 설명  | 프로필 등록 | 개인 프로필 |
 | :------------: | :------------: |:------------:|:------------:|
-|<img src="https://firebasestorage.googleapis.com/v0/b/onboard-4a35e.appspot.com/o/github%2FmainPage.png" width="300" height="200"/>||<img src="https://firebasestorage.googleapis.com/v0/b/onboard-4a35e.appspot.com/o/github%2FteamPage" width="300" height="200"/>||<img src="https://firebasestorage.googleapis.com/v0/b/onboard-4a35e.appspot.com/o/github%2FregisterPage" width="300" height="200"/>||<img src="https://firebasestorage.googleapis.com/v0/b/onboard-4a35e.appspot.com/o/github%2FinfoPage" width="300" height="200"/>|
+|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/mainPage.png" width="300" height="200"/>||<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/teamPage.png" width="300" height="200"/>||<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/registerPage.png" width="300" height="200"/>||<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/infoPage.png" width="300" height="200"/>|
