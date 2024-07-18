@@ -26,4 +26,4 @@
 ### 화면
 | 메인 | 팀 설명  | 프로필 등록 | 개인 프로필 |
 | :------------: | :------------: |:------------:|:------------:|
-|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/mainPage.png" width="300" height="200"/>|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/teamPage.png" width="300" height="200"/>|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/registerPage.png" width="200" height="300"/>|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/infoPage.png" width="200" height="200"/>|
+|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/mainPage.png" width="300" height="200"/>|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/teamPage.png" width="300" height="200"/>|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/registerPage.png" width="200" height="300"/>|<img src="https://github.com/firstTeamOnBoard/onBoard/blob/main/img/infoPage.png" width="400" height="200"/>|
