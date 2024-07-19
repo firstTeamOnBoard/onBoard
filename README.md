@@ -23,6 +23,9 @@
 ### DB
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
+### 시연 영상
+https://youtu.be/rtu-ZAeUVTM
+
 ### 화면
 | 메인 | 팀 설명  | 프로필 등록 | 개인 프로필 |
 | :------------: | :------------: |:------------:|:------------:|
